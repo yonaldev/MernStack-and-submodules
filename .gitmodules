@@ -1,0 +1,3 @@
+[submodule "frontendMearn"]
+	path = frontendMearn
+	url = git@github.com-yonaldev:yonaldev/frontendMearn.git
